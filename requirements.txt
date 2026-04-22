@@ -1,0 +1,5 @@
+pdf2image
+PIL
+pytesseract
+os
+docx
