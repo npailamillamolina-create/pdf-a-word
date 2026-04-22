@@ -1,5 +1,5 @@
 pdf2image
-PIL
+pillow
 pytesseract
 os
 docx
