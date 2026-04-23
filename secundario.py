@@ -5,4 +5,4 @@ def abrir_pdf():                               # función para abrir pdf
         filetypes=[("Archivos PDF", "*.pdf")]  # filtra pdf
     )
     print("Archivo seleccionado:", archivo_pdf) # muestra ruta
-    return archivo_pdf                         # retorna archivo
+    return archivo_pdf                         # retorna archivod
